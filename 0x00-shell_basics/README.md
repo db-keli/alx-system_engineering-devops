@@ -2,3 +2,4 @@
 # 1-listit is a script that displays the content list of your current directory
 # 2-bring_me_home is a script that changes current working directory to the user's home directory
 # 3-listfiles displays the directory contents in a long format
+# 4-listmorefiles list contents of directories including hidden files
