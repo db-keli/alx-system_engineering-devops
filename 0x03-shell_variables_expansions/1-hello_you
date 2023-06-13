@@ -1,1 +1,2 @@
-echo Hello $WHOAMI
+#!/bin/bash
+echo Hello $HOSTNAME
