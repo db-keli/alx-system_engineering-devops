@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Transfer file to server
+
+echo 'Hello Holberton' >> /etc/apache2.conf
+service apache2 start
